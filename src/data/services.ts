@@ -13,7 +13,7 @@ export const services: Service[] = [
     title: 'Service de Nettoyage Standard',
     description: 'Nettoyage complet de votre domicile ou bureau, incluant dépoussiérage, aspiration, et nettoyage des surfaces. Service professionnel avec matériel inclus.',
     image: 'https://images.pexels.com/photos/4239146/pexels-photo-4239146.jpeg',
-    price: '€150',
+    price: '20,000 FCFA',
     features: [
       'Dépoussiérage de toutes les surfaces',
       'Aspiration et lavage des sols',
@@ -28,7 +28,7 @@ export const services: Service[] = [
     title: 'Maintenance Préventive',
     description: 'Inspection et entretien régulier de vos équipements pour prévenir les pannes et prolonger leur durée de vie. Service technique spécialisé.',
     image: 'https://images.pexels.com/photos/5691659/pexels-photo-5691659.jpeg',
-    price: '€200',
+    price: '25,000 FCFA',
     features: [
       'Vérification des systèmes CVC',
       'Lubrification des pièces mobiles',
@@ -43,7 +43,7 @@ export const services: Service[] = [
     title: 'Réparation d\'Urgence',
     description: 'Intervention rapide pour résoudre vos problèmes techniques urgents. Disponible 24h/24 pour les urgences critiques.',
     image: 'https://images.pexels.com/photos/5691658/pexels-photo-5691658.jpeg',
-    price: '€120',
+    price: '25,000 FCFA',
     features: [
       'Intervention dans les 2 heures',
       'Diagnostic rapide',
@@ -58,7 +58,7 @@ export const services: Service[] = [
     title: 'Nettoyage en Profondeur',
     description: 'Service de nettoyage intensif pour remise en état complète. Idéal pour déménagements, rénovations ou nettoyage saisonnier.',
     image: 'https://images.pexels.com/photos/4239013/pexels-photo-4239013.jpeg',
-    price: '€300',
+    price: '35,000 FCFA',
     features: [
       'Nettoyage complet de tous les espaces',
       'Décapage et cirage des sols',
@@ -73,7 +73,7 @@ export const services: Service[] = [
     title: 'Jardinage et Entretien Extérieur',
     description: 'Entretien complet de vos espaces verts et extérieurs. Tonte, taille, plantation et aménagement paysager.',
     image: 'https://images.pexels.com/photos/1301856/pexels-photo-1301856.jpeg',
-    price: '€180',
+    price: '45,000 FCFA',
     features: [
       'Tonte de pelouse',
       'Taille des haies et arbustes',
@@ -88,7 +88,7 @@ export const services: Service[] = [
     title: 'Plomberie et Sanitaire',
     description: 'Services de plomberie générale et sanitaire. Installation, réparation et maintenance de vos équipements.',
     image: 'https://images.pexels.com/photos/8486944/pexels-photo-8486944.jpeg',
-    price: '€160',
+    price: '25,000 FCFA',
     features: [
       'Réparation de fuites',
       'Débouchage de canalisations',
